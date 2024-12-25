@@ -14,8 +14,8 @@ HR Analytics Dashboard, leveraging the power of Power BI to transform data into 
 
 ## 📈 Key insights :-
 
-### 📌[Across all 4 SalarySlab, Sum of attritioncount ranged from 5 to 163.]
+#### 📌[Across all 4 SalarySlab, Sum of attritioncount ranged from 5 to 163.]
 
-### 📌[At 163, Upto 5k had the highest Sum of attritioncount and was 3,160.00% higher than 15k+, which had the lowest Sum of attritioncount at 5.]
+#### 📌[At 163, Upto 5k had the highest Sum of attritioncount and was 3,160.00% higher than 15k+, which had the lowest Sum of attritioncount at 5.]
 
-### 📌[Life Sciences accounted for 41.22% of Count of Attrition.]
+#### 📌[Life Sciences accounted for 41.22% of Count of Attrition.]
